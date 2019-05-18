@@ -1,0 +1,412 @@
+﻿[
+{
+"name": "MachineIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "ProductName",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "EngineVersion",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "AppVersion",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "AvSigVersion",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "IsBeta",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "RtpStateBitfield",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "IsSxsPassiveMode",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "DefaultBrowsersIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "AVProductStatesIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "AVProductsInstalled",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "AVProductsEnabled",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "HasTpm",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "CountryIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "CityIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "OrganizationIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "GeoNameIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "LocaleEnglishNameIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "Platform",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "Processor",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "OsVer",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "OsBuild",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "OsSuite",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "OsPlatformSubRelease",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "OsBuildLab",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "SkuEdition",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "IsProtected",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "AutoSampleOptIn",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "PuaMode",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "SMode",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "IeVerIdentifier",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "SmartScreen",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "Firewall",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "UacLuaenable",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "Census_MDC2FormFactor",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_DeviceFamily",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OEMNameIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OEMModelIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_ProcessorCoreCount",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_ProcessorManufacturerIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_ProcessorModelIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_ProcessorClass",
+"type": "NULL",
+"mode": "[MODE]"
+},
+{
+"name": "Census_PrimaryDiskTotalCapacity",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_PrimaryDiskTypeName",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_SystemVolumeTotalCapacity",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_HasOpticalDiskDrive",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_TotalPhysicalRAM",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_ChassisTypeName",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_InternalPrimaryDiagonalDisplaySizeInInches",
+"type": "NUMERICAL",
+"mode": "[MODE]"
+},
+{
+"name": "Census_InternalPrimaryDisplayResolutionHorizontal",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_InternalPrimaryDisplayResolutionVertical",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_PowerPlatformRoleName",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_InternalBatteryType",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_InternalBatteryNumberOfCharges",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSVersion",
+"type": "NUMERICAL",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSArchitecture",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSBranch",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSBuildNumber",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSBuildRevision",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSEdition",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSSkuName",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSInstallTypeName",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSInstallLanguageIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSUILocaleIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_OSWUAutoUpdateOptionsName",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsPortableOperatingSystem",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_GenuineStateName",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_ActivationChannel",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsFlightingInternal",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsFlightsDisabled",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_FlightRing",
+"type": "STRING",
+"mode": "[MODE]"
+},
+{
+"name": "Census_ThresholdOptIn",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_FirmwareManufacturerIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_FirmwareVersionIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsSecureBootEnabled",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsWIMBootEnabled",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsVirtualDevice",
+"type": "[TYPE]",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsTouchEnabled",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsPenCapable",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Census_IsAlwaysOnAlwaysConnectedCapable",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Wdft_IsGamer",
+"type": "INT",
+"mode": "[MODE]"
+},
+{
+"name": "Wdft_RegionIdentifier",
+"type": "INT",
+"mode": "[MODE]"
+}
+]
