@@ -1,172 +1,172 @@
 ﻿[
 {
 "name": "MachineIdentifier",
-"type": "[TYPE]",
+"type": "STRING",
 "mode": "[MODE]"
 },
 {
 "name": "ProductName",
-"type": "[TYPE]",
+"type": "STRING",
 "mode": "[MODE]"
 },
 {
 "name": "EngineVersion",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "AppVersion",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "AvSigVersion",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "IsBeta",
-"type": "[TYPE]",
-"mode": "[MODE]"
+"type": "INT",
+"mode": "INT"
 },
 {
 "name": "RtpStateBitfield",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "IsSxsPassiveMode",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "DefaultBrowsersIdentifier",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "AVProductStatesIdentifier",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "AVProductsInstalled",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "AVProductsEnabled",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "HasTpm",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "CountryIdentifier",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "CityIdentifier",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "OrganizationIdentifier",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "GeoNameIdentifier",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "LocaleEnglishNameIdentifier",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "Platform",
-"type": "[TYPE]",
+"type": "STRING",
 "mode": "[MODE]"
 },
 {
 "name": "Processor",
-"type": "[TYPE]",
+"type": "STRING",
 "mode": "[MODE]"
 },
 {
 "name": "OsVer",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "OsBuild",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "OsSuite",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "OsPlatformSubRelease",
-"type": "[TYPE]",
+"type": "STRING",
 "mode": "[MODE]"
 },
 {
 "name": "OsBuildLab",
-"type": "[TYPE]",
+"type": "STRING",
 "mode": "[MODE]"
 },
 {
 "name": "SkuEdition",
-"type": "[TYPE]",
+"type": "STRING",
 "mode": "[MODE]"
 },
 {
 "name": "IsProtected",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "AutoSampleOptIn",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "PuaMode",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "SMode",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "IeVerIdentifier",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "SmartScreen",
-"type": "[TYPE]",
+"type": "STRING",
 "mode": "[MODE]"
 },
 {
 "name": "Firewall",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
 "name": "UacLuaenable",
-"type": "[TYPE]",
+"type": "INT",
 "mode": "[MODE]"
 },
 {
